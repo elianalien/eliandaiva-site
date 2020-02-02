@@ -4,24 +4,22 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Elian Daiva
+title: elianalien
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  This is a personal website of Elian Daiva.
 url: http://barber.samesies.io
-twitter_username: thomasvaeth
+twitter_username: elianalien
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/elianalien
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/elianalien/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/elian-daiva-6310373a/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/elianalien
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,9 +34,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Elian Daiva
+    bio: Elian Daiva is an interaction designer and creative technologist based on Bandung, Indonesia. His works span from interactive installations, embedded systems, games, virtual reality and lately on data science. Elian works through design thinking and human-centered design to explore the structures and systems of human interactions and the potential for technology to mediate, manipulate, and evolve these interactions. Elian has worked on installation at Venice Art Biennale 2017, London Design Biennale 2016, Bandung International Art Festival 2016, and Bandung Planning Gallery
+    url: http://eliandaiva.com
 
 # Pagination settings
 pagination:
@@ -59,7 +57,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Elian Daiva'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
