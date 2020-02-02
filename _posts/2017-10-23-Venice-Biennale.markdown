@@ -22,8 +22,13 @@ The A Thousand and One Martian were built using Touchdesigner, playing a sequenc
 Schedule :
 Arsenale, Venezia 10.00 AM - 06.00 PM | Senayan City, Jakarta 16.00 - 22.00 WIB
 Technical Team:
+
 Elian Daiva - Touchdesigner Programmer, Rapberry Pi Programmer
+
 Adityo Pratomo - Tech Lead, Touchdesigner Programmer
+
 Aditya Rachman - Raspberry Pi Programmer, LEDs array system
+
 Andyaningrum - LEDs array system
+
 Bagus Agung - Project Manager
