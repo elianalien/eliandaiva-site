@@ -16,7 +16,8 @@ The VR mobility installation brings the future of Bandung transportation scene, 
 
 The project was commissioned by Bandung City Planning Department under Bandung Planning Gallery Project.
 The team consisted of:
-Elian Daiva - Lead Programmer, Game Designer
-Shendi Abdi Maulana (Simulakrum Studio) - Director
-Pawitra Studio - 3D Assets and animation
-Akhmad Mukhamad Arifin - Project Manager
+
+- Elian Daiva - Lead Programmer, Game Designer
+- Shendi Abdi Maulana (Simulakrum Studio) - Director
+- Pawitra Studio - 3D Assets and animation
+- Akhmad Mukhamad Arifin - Project Manager
