@@ -11,9 +11,6 @@ tags:
   - RaspberryPi
   - Interactive Installations
 ---
-<figcaption align="center" style="font-size:15px">1001 Martian Homes by Tintin Wulia (Source: <a href="http://contemporaryartgroup.info/view/venice2017/index.php?id=16051">contemporaryartgroup</a>/<a href="https://www.italorondinella.com">Italo Rondinella</a>) </figcaption>
-<br>
-
 <p style="font-size:18px">One of the most significant project under Labtek Indie due to its high complexity and prestige. As part of production team for Tintin Wulia, representing Indonesian Pavilion for Venice Art Biennale 2017, we developed an identical, interactive contemporary art that was installed in Jakarta (Indonesia) and Venice (Italy). The more thorough explanation on the artwork can be read at this article on <a href="https://www.thejakartapost.com/life/2017/07/20/artist-tintins-struggle-to-uncover-the-truth.html">Jakarta Post</a>. The artwork was built using Touchdesigner, network camera, raspberry pi, and thousands of LED.</p>
 
 ![Placeholder](/assets/images/2017_venice_biennale/venice_led_personaldocs3.jpg)
@@ -43,12 +40,15 @@ tags:
 <p style="font-size:18px">Schedule :
 Arsenale, Venezia 10.00 AM - 06.00 PM | Senayan City, Jakarta 16.00 - 22.00 WIB</p>
 
-<p style="font-size:18px">Technical Team:</p>
-<ul style="list-style-type:circle;">
+
+<ul style="list-style-type:circle;">Technical Team:
   <li style="font-size:18px">Adityo Pratomo - Tech Lead, Touchdesigner Programmer</li>
   <li style="font-size:18px">Bagus Agung - Project Manager</li>
   <li style="font-size:18px">Elian Daiva - Touchdesigner Programmer, Rapberry Pi Programmer</li>
   <li style="font-size:18px">Aditya Rachman - Raspberry Pi Programmer, LEDs array system</li>
   <li style="font-size:18px">Andyaningrum - LEDs array system</li>
 </ul>
-</p>
+
+<ul>Header Image Credit
+  <li style="font-size:15px">1001 Martian Homes by Tintin Wulia (Source: <a href="http://contemporaryartgroup.info/view/venice2017/index.php?id=16051">contemporaryartgroup</a>/<a href="https://www.italorondinella.com">Italo Rondinella</a>) </</li>
+</ul>
