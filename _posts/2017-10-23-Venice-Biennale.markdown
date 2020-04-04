@@ -41,9 +41,9 @@ tags:
 <p style="font-size:18px">1001 Martian Home by Tintin Wulia are presented from 13 May to 26 Nov 2017 on Biennale Arte 2017</p>
 
 <p style="font-size:18px">Schedule :
-Arsenale, Venezia 10.00 AM - 06.00 PM | Senayan City, Jakarta 16.00 - 22.00 WIB
+Arsenale, Venezia 10.00 AM - 06.00 PM | Senayan City, Jakarta 16.00 - 22.00 WIB</p>
 
-Technical Team:
+<p style="font-size:18px">Technical Team:</p>
 <ul style="list-style-type:circle;">
   <li style="font-size:18px">Adityo Pratomo - Tech Lead, Touchdesigner Programmer</li>
   <li style="font-size:18px">Bagus Agung - Project Manager</li>
