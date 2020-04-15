@@ -3,7 +3,7 @@ layout: post
 title: "VR Mobility for Bandung Planning Gallery"
 date: 2018-10-22
 description: 
-image: /assets/images/placeholder-8.jpg
+image: /assets/images/2018_vr_bpg/elian-vr.png
 author: Elian Daiva
 tags: 
   - Virtual Reality
@@ -12,7 +12,25 @@ tags:
 ---
 <p style="font-size:18px">The VR mobility is one of the interactive installations in Bandung Planning Gallery (BPG). BPG was meant to be a bridge for Bandung's citizen to learn the past and future of their cities. In the future section, the gallery presents blueprints which were planned for Bandung. To brought up the excitement of Bandung visions in the future, it should be relayed in sophisticated ways. It depicted in many techniques, interaction, and platform installed in the gallery: video mapping, touchscreens, virtual reality, augmented reality, even the interior design was Zaha Hadid-esque.</p>
 
-<p style="font-size:18px">The VR mobility installation brings the future of Bandung transportation scene, where rapid mass transportation would cover most of the vital part of the city. It was made based on Bandung City Planning Department's blueprint of transportation, where I, as a game designer and programmer developed a mini track light rapid transit (LRT) experience. It covers full experience of having LRT in Bandung, right from going to the station, pass through the gate, sitting on the LRT, until you off the train and met the one you love. A simple storyline that is trying to embark Bandung's citizen 5 to 10 years from now.</p>
+![Placeholder](/assets/images/2018_vr_bpg/Picture4.png)
+<br>
+
+![Placeholder](/assets/images/2018_vr_bpg/lrt.png)
+
+<p style="font-size:18px">At first the VR installation only tells about the future of Bandung transportation scene, where rapid mass transportation would cover most of the vital part of the city. After the first release, it was added two more mini-games, totalling 3 VR experience on the installation. The first experiene was made based on Bandung City Planning Department's blueprint of transportation, where I developed a mini track light rapid transit (LRT) experience. It covers full experience of having LRT in Bandung, right from going to the station, pass through the gate, sitting on the LRT, until you off the train and met the one you love. A simple storyline that is trying to embark Bandung's citizen 5 to 10 years from now.</p>
+
+![Placeholder](/assets/images/2018_vr_bpg/traffic.png)
+<br>
+
+![Placeholder](/assets/images/2018_vr_bpg/traffic2.png)
+
+<p style="font-size:18px">The additional VR mini-games was about catching the traffic law breakers and cleanups a city corner from trash piles. The games were different from the LRT experience, where these two using Oculus Hand Controller to play and interact with the enviroment inside.</p>
+
+![Placeholder](/assets/images/2018_vr_bpg/trash1.png)
+<br>
+
+![Placeholder](/assets/images/2018_vr_bpg/trash2.png)
+
 
 <p style="font-size:18px">The project was commissioned by Bandung City Planning Department under Bandung Planning Gallery Project. The team consisted of: </p>
 <ul style="list-style-type:circle; font-size:18px">
