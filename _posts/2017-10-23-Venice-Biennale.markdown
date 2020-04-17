@@ -41,14 +41,14 @@ tags:
 Arsenale, Venezia 10.00 AM - 06.00 PM | Senayan City, Jakarta 16.00 - 22.00 WIB</p>
 
 
-<ul style="list-style-type:circle;">Technical Team:
-  <li style="font-size:18px">Adityo Pratomo - Tech Lead, Touchdesigner Programmer</li>
-  <li style="font-size:18px">Bagus Agung - Project Manager</li>
-  <li style="font-size:18px">Elian Daiva - Touchdesigner Programmer, Rapberry Pi Programmer</li>
-  <li style="font-size:18px">Aditya Rachman - Raspberry Pi Programmer, LEDs array system</li>
-  <li style="font-size:18px">Andyaningrum - LEDs array system</li>
+<ul>Header Image Credit
+  <li style="font-size:15px">1001 Martian Homes by Tintin Wulia (Source: <a href="http://contemporaryartgroup.info/view/venice2017/index.php?id=16051">contemporaryartgroup</a>/<a href="https://www.italorondinella.com">Italo Rondinella</a>) </li>
 </ul>
 
-<ul>Header Image Credit
-  <li style="font-size:15px">1001 Martian Homes by Tintin Wulia (Source: <a href="http://contemporaryartgroup.info/view/venice2017/index.php?id=16051">contemporaryartgroup</a>/<a href="https://www.italorondinella.com">Italo Rondinella</a>) </</li>
+<ul style="list-style-type:circle; font-size:17px">Technical Team:
+  <li style="font-size:15px">Adityo Pratomo - Tech Lead, Touchdesigner Programmer</li>
+  <li style="font-size:15px">Bagus Agung - Project Manager</li>
+  <li style="font-size:15px">Elian Daiva - Touchdesigner Programmer, Rapberry Pi Programmer</li>
+  <li style="font-size:15px">Aditya Rachman - Raspberry Pi Programmer, LEDs array system</li>
+  <li style="font-size:15px">Andyaningrum - LEDs array system</li>
 </ul>
