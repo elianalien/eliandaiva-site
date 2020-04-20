@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Starwars Day Photoboot"
+date: 2017-05-04
+description: 
+image: /assets/images/2017_starwars_day/batch_DSC03080.jpg
+author: Elian Daiva
+tags: 
+  - Interactive Installations
+  - Augmented Reality
+---
+
+<p style="font-size:18px">Star Wars Day is annual event of Star Wars fanboy. Here we have a booth that make use of augmented reality and face detection algorithm. The installation was simply built using Openframeworks utilizing an HD webcam to capture the face in front of the screen. I used OpenCV and haar cascade library to track user's head on the screen. It covers up detected faces with the head of star wars characters, pretty much like snapchat or instagram filters nowadays.</p>
+
+![Placeholder](/assets/images/2017_starwars_day/batch_DSC03098.jpg)
+<figcaption align="center" style="font-size:15px">Fig 1. A kid strike a pose in the AR booth (Source: Personal Documentation)</figcaption>
+<br>
+
+![Placeholder](/assets/images/2017_starwars_day/batch_DSC03050.jpg)
+<figcaption align="center" style="font-size:15px">Fig 2. A couple choose Darth Vader and Boba Fett face mask for their booth session (Source: Personal Documentation)</figcaption>
+<br>
+
+<p style="font-size:18px">The event was awesome and it was full of a Star Wars’ die hard fans. Well, it was really a great day where many kids were playing on the booth :)</p>
