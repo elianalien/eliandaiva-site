@@ -13,7 +13,7 @@ tags:
 <p style="font-size:18px">The VR mobility is one of the interactive installations in Bandung Planning Gallery (BPG). BPG was meant to be a bridge for Bandung's citizen to learn the past and future of their cities. In the future section, the gallery presents blueprints which were planned for Bandung. To brought up the excitement of Bandung visions in the future, it should be relayed in sophisticated ways. It depicted in many techniques, interaction, and platform installed in the gallery: video mapping, touchscreens, virtual reality, augmented reality, even the interior design was Zaha Hadid-esque.</p>
 
 ![Placeholder](/assets/images/2018_vr_bpg/elian-vr.png)
-<figcaption align="center" style="font-size:15px">Fig 1. VR Menu section (Source: Personal Documentation) </figcaption>
+<figcaption align="center" style="font-size:15px">Fig 1. User trying the VR game on-site (Source: Personal Documentation) </figcaption>
 <br>
 
 ![Placeholder](/assets/images/2018_vr_bpg/lrt.png)
